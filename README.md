@@ -3,5 +3,7 @@
 e.g., mySGDR = CosineAnnealingLR_with_Restart(optimizer=optimizer,T_max=t_max, T_mult=t_mult, model=model,out_dir=model_saved_dir, take_snapshot=True, eta_min=lr_min)  
 ## 2. mnist_load.py: loading mnist dataset from personal computer rather than using Web to download through frameworking.  
 ## 3. mnist_load_binary.py: loading mnist dataset from personal computer as binary arrays.  
+## 4. touch-gpu-install.md: installing torch with gpu in a simple way.  
+
 
 
