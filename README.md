@@ -4,6 +4,8 @@ e.g., mySGDR = CosineAnnealingLR_with_Restart(optimizer=optimizer,T_max=t_max, T
 ## 2. mnist_load.py: loading mnist dataset from personal computer rather than using Web to download through frameworking.  
 ## 3. mnist_load_binary.py: loading mnist dataset from personal computer as binary arrays.  
 ## 4. touch-gpu-install.md: installing torch with gpu in a simple way.  
+## 5. customized_save_quantized_coefficients_to_coe.py： quantizing weights and bias as hexadecimal and save the parameters as .coe format through the target path.  
+
 
 
 
